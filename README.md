@@ -15,7 +15,7 @@ The MyBike landing page is built using modern web technologies to ensure a smoot
 
 To run the MyBike project locally, follow these steps:
 
-1. **Clone the Repository:**:
+1. **Clone the Repository:**
    `git clone https://github.com/VitaliiNez/MyBike_landing.git`
 2. **Navigate into the Project Directory:**
    `cd MyBike_landing`
