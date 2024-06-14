@@ -8,14 +8,14 @@ MyBike is a next-generation urban biking solution designed to transform your cit
 
 The MyBike landing page is built using modern web technologies to ensure a smooth and responsive user experience. The key technologies utilized are:
 
-- **HTML**: For structuring the content on the page.
-- **CSS/SCSS**: For styling and layout, including the use of SCSS for more efficient and maintainable stylesheets.
+- **HTML:** For structuring the content on the page.
+- **CSS/SCSS:** For styling and layout, including the use of SCSS for more efficient and maintainable stylesheets.
 
 ## Running the Project Locally
 
 To run the MyBike project locally, follow these steps:
 
-1. **Clone the Repository:**:
+1. **Clone the Repository:**
    `git clone https://github.com/VitaliiNez/MyBike_landing.git`
 2. **Navigate into the Project Directory:**
    `cd MyBike_landing`
