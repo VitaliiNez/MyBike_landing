@@ -1,7 +1,14 @@
 .header {
-  background-image: url("../images/home_cover.jpg");
+  background-image: url("../images/hero_bike_mobile.jpg");
   background-size: cover;
   background-position: center;
+  @include onTablet {
+    background-image: url("../images/hero_bike_tablet.jpg");
+  }
+
+  @include onDesktop {
+    background-image: url("../images/home_cover.jpg");
+  }
   &__title {
     color: $text-color;
     text-align: center;
